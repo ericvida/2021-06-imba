@@ -4,5 +4,7 @@ tag app
 	def render
 		<self>
 			<header>
-				<h2[c:cooler6 ta:center]> "2.0.0-alpha.133"
+				<h2> "2.0.0-alpha.140"
+					css
+						c: red3 @700: teal4
 imba.mount <app>
